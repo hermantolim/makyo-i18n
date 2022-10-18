@@ -213,7 +213,7 @@
   "You can't leave the default teams of organizations you own": "You can't leave the default team of organizations you own",
   "Edit Team": "Edit team",
   "Leave Team": "Leave team",
-  "Delete Team": "Remvoveteam",
+  "Delete Team": "Remove team",
   "In-App": "In-app",
   "Off": "Off",
   "On": "On",
@@ -662,11 +662,13 @@
   "trashedBy": "Trashed by",
   "deleteAddressWithAssociatedPm": "This address is associated with a payment method belonging to <strong>{{name}}</strong>. To delete it, please edit the payment method first, and choose a different address.",
   "backup2FaTextFile": "In case you've lost access to your 2FA app,\nplease use one of the following codes to login to Makyo.\nPlease save this file in a safe place.",
-  "addTeamWithOrgMemberEmpty": "This organization does not have any additional members. Please add them on the <2>members page</2> first"
+  "addTeamWithOrgMemberEmpty": "This organization does not have any additional members. Please add them on the <2>members page</2> first",
+  "deleteNoticeWithOtherTransfer": "Since you're the only member of this organization, you can't transfer. To transfer the organization, please add more <2>members</2>",
+  "Remove Team": "Remove Team",
+  "Yes, remove": "Yes, remove",
+  "deleteTeamConfirm": "Are you sure you'd like to remove this team? Team that have been removed can be found in the Trash. Teams can be restored within a 14-day grace period.",
+  "Remove Organization": "Remove Organization",
+  "Are you sure you'd like to remove this organization?": "Are you sure you'd like to remove this organization?",
+  "This organization's teams, apps, and databases will also be removed. Removed assets can be found in the Trash and restored within 14 days.": "This organization's teams, apps, and databases will also be removed.  Removed assets can be found in the Trash and restored within 14 days.",
+  "Select member": "Select member"
 }
-
-
-
-
-
-
