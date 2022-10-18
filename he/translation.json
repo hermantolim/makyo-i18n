@@ -682,7 +682,11 @@
   "Someone has deleted an organization": "מישהו מחק ארגון",
   "Someone left your team": "מישהו עזב את הצוות שלך",
   "Team deleted": "הצוות נמחק",
-  "You left a team": "עזבת קבוצה"
+  "You left a team": "עזבת קבוצה",
+  "Restore account": "Restore account",
+  "Yes, restore": "Yes, restore",
+  "accountRestoreInfoWithDate": "Your account has been deleted on <strong>{{date}}</strong>. You can restore it before <strong>{{before}}</strong>. Would you like to restore it now?",
+  "accountRestoreInfo": "Your account has been deleted but it's not too late to restore it. Would you like to restore it now?"
 }
 
 
