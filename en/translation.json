@@ -660,8 +660,7 @@
   "delete": "Delete",
   "viewIndividualApp": "View Individual App",
   "trashedBy": "Trashed By",
-  "deleteAddressWithAssociatedPm": "This address is associated with a payment method belongs to <strong>{{name}}</strong>. To delete it, please edit the payment method first, and choose a different address.",
-  "test": "test"
+  "deleteAddressWithAssociatedPm": "This address is associated with a payment method belongs to <strong>{{name}}</strong>. To delete it, please edit the payment method first, and choose a different address."
 }
 
 
