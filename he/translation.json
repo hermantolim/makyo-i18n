@@ -660,7 +660,8 @@
   "delete": "Delete",
   "viewIndividualApp": "View Individual App",
   "trashedBy": "Trashed By",
-  "deleteAddressWithAssociatedPm": "This address is associated with a payment method belongs to <strong>{{name}}</strong>. To delete it, please edit the payment method first, and choose a different address."
+  "deleteAddressWithAssociatedPm": "This address is associated with a payment method belongs to <strong>{{name}}</strong>. To delete it, please edit the payment method first, and choose a different address.",
+  "backup2FaTextFile": "In case you've lost access to your 2FA app,\nplease use one of the following codes to login to Makyo.\nPlease save this file in a safe place."
 }
 
 
