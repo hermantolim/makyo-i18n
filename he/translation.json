@@ -670,5 +670,20 @@
   "Remove Organization": "Remove Organization",
   "Are you sure you'd like to remove this organization?": "Are you sure you'd like to remove this organization?",
   "This organization's teams, apps, and databases will also be removed. Removed assets can be found in the Trash and restored within 14 days.": "This organization's teams, apps, and databases will also be removed.  Removed assets can be found in the Trash and restored within 14 days.",
-  "Select member": "Select member"
+  "Select member": "Select member",
+  "Account closure": "Account closure",
+  "Changing org ownership": "Changing org ownership",
+  "Makyo sign up": "Makyo sign up",
+  "New team created": "New team created",
+  "Organization created": "Organization created",
+  "Organization deleted": "Organization deleted",
+  "Organization invite accepted": "Organization invite accepted",
+  "Organization left": "Organization left",
+  "Organization member invite": "Organization member invite",
+  "Organization member left": "Organization member left",
+  "Organization ownership accepted": "Organization ownership accepted",
+  "Someone has deleted an organization": "Someone has deleted an organization",
+  "Someone left your team": "Someone left your team",
+  "Team deleted": "Team deleted",
+  "You left a team": "You left a team"
 }
