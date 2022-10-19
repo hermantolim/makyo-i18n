@@ -712,7 +712,8 @@
   "Edit Teams": "Edit Teams",
   "Update Permission": "Update Permission",
   "Leave": "Leave",
-  "welcomeRole": "Your organization access level is <strong>{{role}}</strong>"
+  "welcomeRole": "Your organization access level is <strong>{{role}}</strong>",
+  "Yes, delete": "Yes, delete"
 }
 
 
