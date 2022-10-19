@@ -720,7 +720,8 @@
   "ownershipInvitationDetail": "אתה מוזמן להיות הבעלים של <1>{{orgName}}</1> על ידי <4>{{name}}</4>",
   "declinedOwnership": "דחית את ההזמנה להיות הבעלים של <2>{{orgName}}</2>!",
   "The email on the invitation doesn't match this account.": "האימייל בהזמנה אינו תואם לחשבון זה.",
-  "Ignore": "התעלם"
+  "Ignore": "התעלם",
+  "Yes, transfer": "Yes, transfer"
 }
 
 
