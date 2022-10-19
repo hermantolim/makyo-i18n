@@ -717,5 +717,9 @@
   "Leave": "Leave",
   "welcomeRole": "Your organization access level is <strong>{{role}}</strong>",
   "Yes, delete": "Yes, delete",
-  "Try Makyo": "Try Makyo"
+  "Try Makyo": "Try Makyo",
+  "declinedInvitation": "You've declined the invitation to join <2>{{orgName}}</2>!",
+  "Manage Apps": "Manage Apps",
+  "ownershipInvitationDetail": "You're invited to be owner of <1>{{orgName}}</1> by <4>{{name}}</4>",
+  "declinedOwnership": "You've declined the invitation to own <2>{{orgName}}</2>!"
 }
