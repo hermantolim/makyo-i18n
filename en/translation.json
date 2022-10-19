@@ -716,5 +716,6 @@
   "Update Permission": "Update Permission",
   "Leave": "Leave",
   "welcomeRole": "Your organization access level is <strong>{{role}}</strong>",
-  "Yes, delete": "Yes, delete"
+  "Yes, delete": "Yes, delete",
+  "Try Makyo": "Try Makyo"
 }
