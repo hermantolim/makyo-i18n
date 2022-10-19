@@ -722,5 +722,6 @@
   "Manage Apps": "Manage Apps",
   "ownershipInvitationDetail": "You're invited to be owner of <1>{{orgName}}</1> by <4>{{name}}</4>",
   "declinedOwnership": "You've declined the invitation to own <2>{{orgName}}</2>!",
-  "The email on the invitation doesn't match this account.": "The email on the invitation doesn't match this account."
+  "The email on the invitation doesn't match this account.": "The email on the invitation doesn't match this account.",
+  "Ignore": "Ignore"
 }
