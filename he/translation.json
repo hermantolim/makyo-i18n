@@ -537,6 +537,7 @@
   "colType.datetime": "תאריך שעה",
   "colType.datetime.description": "תאריכים ושעות במגוון פורמטים.",
   "colType.boolean": "בוליאני",
+  "colType.boolean.description": "Data with only two possible values: \"true\" and \"false\".",
   "colType.url": "כתובת אתר",
   "colType.url.description": "כתובת אתר חוקית (לדוגמה",
   "colType.image": "תמונה",
