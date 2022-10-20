@@ -198,7 +198,7 @@
   "Two-Factor Authentication": "Two-factor authentication",
   "2faInfo": "Two-factor authentication increases account security. As soon as you enable and configure two-factor authentication, you will be asked to enter a code every time you sign in.",
   "Enable 2FA": "Enable 2FA",
-  "2faEnabled": "Two-Factor Authentication is <2>disabled</2>",
+  "2faEnabled": "Two-Factor Authentication is <2>enabled</2>",
   "Reset 2FA": "Reset 2FA",
   "Yes, reset": "Yes, reset",
   "Reset 2FA Secret Key": "Reset 2FA secret key",
@@ -724,5 +724,6 @@
   "declinedOwnership": "You've declined the invitation to own <2>{{orgName}}</2>!",
   "The email on the invitation doesn't match this account.": "The email on the invitation doesn't match this account.",
   "Ignore": "Ignore",
-  "Yes, transfer": "Yes, transfer"
+  "Yes, transfer": "Yes, transfer",
+  "2faDisabled": "Two-Factor Authentication is <2>disabled</2>"
 }
