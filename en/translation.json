@@ -728,5 +728,21 @@
   "2faDisabled": "Two-Factor Authentication is <2>disabled</2>",
   "2FA Reset Successfully!": "2FA Reset Successfully!",
   "Back to My Account": "Back to My Account",
-  "Re-enable 2FA": "Re-enable 2FA"
+  "Re-enable 2FA": "Re-enable 2FA",
+  "Delete permanently": "Delete permanently",
+  "Oops! Page Not Found": "Oops! Page Not Found",
+  "Oops. Something is wrong": "Oops. Something is wrong",
+  "Service Unavailable": "Service Unavailable",
+  "Are you sure you want to leave {{name}}?": "Are you sure you want to leave {{name}}?",
+  "You will not be able to access apps and databases belonging to this team": "You will not be able to access apps and databases belonging to this team",
+  "Apps transferred!": "Apps transferred!",
+  "Team Removed!": "Team Removed!",
+  "Yes, leave team": "Yes, leave team",
+  "Do you really want to transfer ownership?": "Do you really want to transfer ownership?",
+  "The ownership rights you currently have will not be available once they accept.": "The ownership rights you currently have will not be available once they accept.",
+  "Organization {{name}} deleted!": "Organization {{name}} deleted!",
+  "Organization transfer requested to {{name}}": "Organization transfer requested to {{name}}",
+  "Transfer request sent!": "Transfer request sent!",
+  "Organization updated!": "Organization updated!",
+  "You have left {{team}}": "You have left {{team}}"
 }
