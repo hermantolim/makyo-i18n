@@ -749,5 +749,6 @@
   "pending": "pending",
   "Profile updated!": "Profile updated!",
   "Are you sure you'd like to delete your account permanently": "Are you sure you'd like to delete your account permanently",
-  "This can't be reversed. All your apps, databases, organizations  and teams will be permanently deleted and you won't be able to restore them.": "This can't be reversed. All your apps, databases, organizations  and teams will be permanently deleted and you won't be able to restore them."
+  "This can't be reversed. All your apps, databases, organizations  and teams will be permanently deleted and you won't be able to restore them.": "This can't be reversed. All your apps, databases, organizations  and teams will be permanently deleted and you won't be able to restore them.",
+  "Restore": "Restore"
 }
