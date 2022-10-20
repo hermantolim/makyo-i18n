@@ -750,5 +750,9 @@
   "Profile updated!": "Profile updated!",
   "Are you sure you'd like to delete your account permanently": "Are you sure you'd like to delete your account permanently",
   "This can't be reversed. All your apps, databases, organizations  and teams will be permanently deleted and you won't be able to restore them.": "This can't be reversed. All your apps, databases, organizations  and teams will be permanently deleted and you won't be able to restore them.",
-  "Restore": "Restore"
+  "Restore": "Restore",
+  "Oops!": "Oops!",
+  "Unable to locate the page you're looking for.": "Unable to locate the page you're looking for.",
+  "Remove database": "Remove database",
+  "Are you sure you'd like to remove this database?": "Are you sure you'd like to remove this database?"
 }

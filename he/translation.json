@@ -191,8 +191,10 @@
   "Download my info": "הורד את המידע שלי",
   "Delete Account": "מחקו חשבון",
   "Are you sure you want to delete your account?": "האם אתם באמת רוצים למחוק את החשבון שלכם?",
+  "The following will be deleted as well:": "The following will be deleted as well:",
   "All created apps, databases Organizations and teams that you created": "כל האפליקציות שנוצרו",
   "All uploaded media": "כל המדיה שהועלתה",
+  "Type \"DELETE\" below if you want to proceed:": "Type \"DELETE\" below if you wish to proceed:",
   "Two-Factor Authentication": "אימות דו-שלבי",
   "2faInfo": "אימות דו-שלבי מגביר את אבטחת החשבון. ברגע שאתה מפעיל ומגדיר אימות דו-שלבי",
   "Enable 2FA": "הפעל אימות דו-שלבי",
@@ -747,7 +749,11 @@
   "Profile updated!": "הפרופיל עודכן!",
   "Are you sure you'd like to delete your account permanently": "האם אתה בטוחים שברצונכם למחוק את חשבונך לצמיתות",
   "This can't be reversed. All your apps, databases, organizations  and teams will be permanently deleted and you won't be able to restore them.": "לא תוכלו לשנות את דעתכם. כל האפליקציות, מסדי הנתונים, הארגונים והצוותים שלך יימחקו לצמיתות ולא תוכלו לשחזר אותם.",
-  "Restore": "שחזר"
+  "Restore": "שחזר",
+  "Oops!": "Oops!",
+  "Unable to locate the page you're looking for.": "Unable to locate the page you're looking for.",
+  "Remove database": "Remove database",
+  "Are you sure you'd like to remove this database?": "Are you sure you'd like to remove this database?"
 }
 
 
