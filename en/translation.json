@@ -725,5 +725,8 @@
   "The email on the invitation doesn't match this account.": "The email on the invitation doesn't match this account.",
   "Ignore": "Ignore",
   "Yes, transfer": "Yes, transfer",
-  "2faDisabled": "Two-Factor Authentication is <2>disabled</2>"
+  "2faDisabled": "Two-Factor Authentication is <2>disabled</2>",
+  "2FA Reset Successfully!": "2FA Reset Successfully!",
+  "Back to My Account": "Back to My Account",
+  "Re-enable 2FA": "Re-enable 2FA"
 }
