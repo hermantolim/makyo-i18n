@@ -744,5 +744,7 @@
   "Organization transfer requested to {{name}}": "Organization transfer requested to {{name}}",
   "Transfer request sent!": "Transfer request sent!",
   "Organization updated!": "Organization updated!",
-  "You have left {{team}}": "You have left {{team}}"
+  "You have left {{team}}": "You have left {{team}}",
+  "active": "active",
+  "pending": "pending"
 }
