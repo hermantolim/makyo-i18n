@@ -755,5 +755,10 @@
   "Unable to locate the page you're looking for.": "Unable to locate the page you're looking for.",
   "Remove database": "Remove database",
   "Are you sure you'd like to remove this database?": "Are you sure you'd like to remove this database?",
-  "Organization created!": "Organization created!"
+  "Organization created!": "Organization created!",
+  "Manage your Makyo account": "Manage your Makyo account",
+  "New": "New",
+  "Free": "חינם",
+  "Pro": "Pro",
+  "Elite": "Elite"
 }

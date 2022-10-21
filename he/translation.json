@@ -755,7 +755,12 @@
   "Unable to locate the page you're looking for.": "לא ניתן לאתר את הדף שאתה מחפש.",
   "Remove database": "הסר מסד נתונים",
   "Are you sure you'd like to remove this database?": "האם אתם בטוחים שאתם רוצים להסיר את מסד הנתונים הזה?",
-  "Organization created!": "ארגון נוצר!"
+  "Organization created!": "ארגון נוצר!",
+  "Manage your Makyo account": "Manage your Makyo account",
+  "New": "New",
+  "Free": "חינם",
+  "Pro": "Pro",
+  "Elite": "Elite"
 }
 
 
