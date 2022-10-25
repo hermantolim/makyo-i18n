@@ -760,7 +760,13 @@
   "New": "New",
   "Free": "חינם",
   "Pro": "Pro",
-  "Elite": "Elite"
+  "Elite": "Elite",
+  "App restored": "App restored",
+  "Database restored": "Database restored",
+  "Organization restored": "Organization restored",
+  "Sign In Pin": "Sign In Pin",
+  "Sign Up Pin": "Sign Up Pin",
+  "Team restored": "Team restored"
 }
 
 
