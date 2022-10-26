@@ -766,7 +766,16 @@
   "Organization restored": "Organization restored",
   "Sign In Pin": "Sign In Pin",
   "Sign Up Pin": "Sign Up Pin",
-  "Team restored": "Team restored"
+  "Team restored": "Team restored",
+  "Account deleted permanently": "Account deleted permanently",
+  "Account restored": "Account restored",
+  "App created": "App created",
+  "App removed": "App removed",
+  "Database created": "Database created",
+  "Database removed": "Database removed",
+  "Organization invite declined": "Organization invite declined",
+  "Organization ownership declined": "Organization ownership declined",
+  "Setup & Enable": "Setup & Enable"
 }
 
 
