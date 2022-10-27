@@ -782,5 +782,6 @@
   "Are you sure you want to disable your 2FA?": "Are you sure you want to disable your 2FA?",
   "Download backup code": "Download backup code",
   "Yes, disable": "Yes, disable",
-  "downloadScratchCode": "Download this backup code and keep it somewhere safe. If you ever lose access to your authenticator app, use one of the backup codes instead. <strong>this button only appear once!</strong>"
+  "downloadScratchCode": "Download this backup code and keep it somewhere safe. If you ever lose access to your authenticator app, use one of the backup codes instead. <strong>this button only appear once!</strong>",
+  "Invalid code": "Invalid code"
 }
