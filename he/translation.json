@@ -775,7 +775,10 @@
   "Database removed": "Database removed",
   "Organization invite declined": "Organization invite declined",
   "Organization ownership declined": "Organization ownership declined",
-  "Setup & Enable": "Setup & Enable"
+  "Setup & Enable": "Setup & Enable",
+  "Deleted apps can be found in the trash and be restored within 14 days.": "Deleted apps can be found in the trash and be restored within 14 days.",
+  "Are you sure you want to reset your secret key?": "Are you sure you want to reset your secret key?",
+  "Your current secret key will be disabled and you will need to repeat the setup process.": "Your current secret key will be disabled and you will need to repeat the setup process."
 }
 
 
