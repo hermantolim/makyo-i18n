@@ -779,5 +779,8 @@
   "Deleted apps can be found in the trash and be restored within 14 days.": "Deleted apps can be found in the trash and be restored within 14 days.",
   "Are you sure you want to reset your secret key?": "Are you sure you want to reset your secret key?",
   "Your current secret key will be disabled and you will need to repeat the setup process.": "Your current secret key will be disabled and you will need to repeat the setup process.",
-  "Are you sure you want to disable your 2FA?": "Are you sure you want to disable your 2FA?"
+  "Are you sure you want to disable your 2FA?": "Are you sure you want to disable your 2FA?",
+  "Download backup code": "Download backup code",
+  "Yes, disable": "Yes, disable",
+  "downloadScratchCode": "Download this backup code and keep it somewhere safe. If you ever lose access to your authenticator app, use one of the backup codes instead. <strong>this button only appear once!</strong>"
 }
