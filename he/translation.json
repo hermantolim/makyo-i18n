@@ -792,7 +792,9 @@
   "Remove Member": "Remove Member",
   "Update Role": "Update Role",
   "Create table": "Create table",
-  "Invalid name": "Invalid name"
+  "Invalid name": "Invalid name",
+  "Show Raw Data": "Show Raw Data",
+  "Add Column": "Add Column"
 }
 
 
