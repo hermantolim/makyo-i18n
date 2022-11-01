@@ -790,5 +790,7 @@
   "Are you sure you'd like to remove this organization member?": "Are you sure you'd like to remove this organization member?",
   "They will no longer have access to any apps or databases belonging to this organization and they will be removed from teams they belong": "They will no longer have access to any apps or databases belonging to this organization and they will be removed from teams they belong",
   "Remove Member": "Remove Member",
-  "Update Role": "Update Role"
+  "Update Role": "Update Role",
+  "Create table": "Create table",
+  "Invalid name": "Invalid name"
 }
