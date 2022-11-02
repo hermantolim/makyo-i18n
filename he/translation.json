@@ -794,7 +794,10 @@
   "Create table": "Create table",
   "Invalid name": "Invalid name",
   "Show Raw Data": "Show Raw Data",
-  "Add Column": "Add Column"
+  "Add Column": "Add Column",
+  "Are you sure you'd like to remove this table?": "Are you sure you'd like to remove this table?",
+  "Remove Table": "Remove Table",
+  "Table that have been removed can be found in the Trash. Table can be restored within a 14-day grace period.": "Table that have been removed can be found in the Trash. Table can be restored within a 14-day grace period."
 }
 
 
